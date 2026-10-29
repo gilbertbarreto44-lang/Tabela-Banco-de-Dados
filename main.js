@@ -22,6 +22,42 @@ const produtos = [
       categoria: "Elétrica",
       quantidade: 7,
       preco: 420
+    },
+    {
+      nome: "Serra Automatica",
+      categoria: "Elétrica",
+      quantidade: 6,
+      preco: 850
+    },
+    {
+        nome: "Colher de Pedreiro",
+      categoria: "Manual",
+      quantidade: 45,
+      preco: 28
+    },
+    {
+        nome: "Trena metrica",
+      categoria: "Manual",
+      quantidade: 90,
+      preco: 70
+    },
+    {
+        nome: "Serrote",
+      categoria: "Manual",
+      quantidade: 40,
+      preco: 67
+    },
+    {
+        nome: "Carrinho de Mão",
+      categoria: "Manual",
+      quantidade: 10,
+      preco: 670
+    },
+    {
+        nome: "pincel",
+      categoria: "Manual",
+      quantidade: 40,
+      preco: 15
     }
   ];
 
